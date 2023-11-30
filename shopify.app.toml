@@ -2,7 +2,7 @@
 
 name = "test-app-for4"
 client_id = "213816cd7ce439ee14fb58a9e7fd66c3"
-application_url = "https://sleeping-complications-lately-sitemap.trycloudflare.com"
+application_url = "https://render-app-test1127.onrender.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://sleeping-complications-lately-sitemap.trycloudflare.com/auth/callback",
-  "https://sleeping-complications-lately-sitemap.trycloudflare.com/auth/shopify/callback",
-  "https://sleeping-complications-lately-sitemap.trycloudflare.com/api/auth/callback",
-  "https://sleeping-complications-lately-sitemap.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://render-app-test1127.onrender.com/auth/callback",
+  "https://render-app-test1127.onrender.com/auth/shopify/callback",
+  "https://render-app-test1127.onrender.com/api/auth/callback",
+  "https://render-app-test1127.onrender.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
